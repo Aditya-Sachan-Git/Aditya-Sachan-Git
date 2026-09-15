@@ -1,8 +1,11 @@
 # Hi, I'm Aditya Sachan 👋
 
 🎓 B.Tech Computer Science Student 
+
 🤖 AI/ML Enthusiast  
+
 💻 Software Developer  
+
 🚀 Interested in LLMs, AI Agents, NLP, and Data Analytics
 
 ---
